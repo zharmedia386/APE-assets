@@ -1,0 +1,11 @@
+Model Information:
+* title:	GLASSES - MOSCOT ZEV-TT SE
+* source:	https://sketchfab.com/3d-models/glasses-moscot-zev-tt-se-20e76258ad1542bcae86d2daa6c27c57
+* author:	Viky (https://sketchfab.com/VikyStefiniv)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GLASSES - MOSCOT ZEV-TT SE" (https://sketchfab.com/3d-models/glasses-moscot-zev-tt-se-20e76258ad1542bcae86d2daa6c27c57) by Viky (https://sketchfab.com/VikyStefiniv) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
