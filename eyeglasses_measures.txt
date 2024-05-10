@@ -1,0 +1,10 @@
+Eyeglasses 3D Model:
+
+eyeglasses03 -> 142.908 mm
+eyeglasses04 -> Not Editable
+eyeglasses06 -> 156.995 mm
+eyeglasses07 -> 139.595 mm
+eyeglasses08 -> 149.166 mm
+eyeglasses09 -> 143.654 mm
+eyeglasses10 -> 143.68 mm
+eyeglasses11 -> 145.642 mm
