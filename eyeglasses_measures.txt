@@ -1,23 +1,12 @@
 Eyeglasses 3D Model:
 
-eyeglasses03 -> 142.908 mm
-eyeglasses04 -> 146.869 mm
-eyeglasses06 -> 156.995 mm
-eyeglasses07 -> 139.595 mm
-eyeglasses08 -> 149.166 mm
-eyeglasses09 -> 143.654 mm
-eyeglasses10 -> 143.68 mm
-eyeglasses11 -> 145.642 mm
-yellow_eyeglasses -> 
-
-
 
 eyeglasses01 -> 142.908 mm
 eyeglasses02 -> 146.869 mm
-eyeglasses03 -> 156.995 mm
-eyeglasses04 -> 139.595 mm
-eyeglasses05 -> 149.166 mm
+eyeglasses03 -> 140.125 mm
+eyeglasses04 -> 139.892 mm
+eyeglasses05 -> 143.921 mm
 eyeglasses06 -> 143.654 mm
-eyeglasses07 -> 143.68 mm
+eyeglasses07 -> 143.680 mm
 eyeglasses08 -> 145.642 mm
-eyeglasses09 -> 
+eyeglasses09 -> 147.345 mm
